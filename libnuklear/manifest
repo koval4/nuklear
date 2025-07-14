@@ -1,0 +1,16 @@
+: 1
+name: libnuklear
+version: 4.12.4-a.0.z
+type: lib,binless
+language: c
+project: nuklear
+summary: C immediate-mode UI library
+license: MIT ; MIT License.
+description-file: README.md
+package-description-file: PACKAGE-README.md
+url: https://example.org/upstream
+email: upstream@example.org
+package-url: https://github.com/build2-packaging/nuklear
+package-email: packaging@build2.org ; Mailing list.
+depends: * build2 >= 0.16.0
+depends: * bpkg >= 0.16.0
