@@ -6,10 +6,10 @@ language: c
 project: nuklear
 summary: C immediate-mode UI library
 license: MIT ; MIT License.
+topics: gui
 description-file: README.md
 package-description-file: PACKAGE-README.md
-url: https://example.org/upstream
-email: upstream@example.org
+url: https://immediate-mode-ui.github.io/Nuklear/
 package-url: https://github.com/build2-packaging/nuklear
 package-email: packaging@build2.org ; Mailing list.
 depends: * build2 >= 0.16.0
