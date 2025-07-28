@@ -1,7 +1,7 @@
-# nuklear - <SUMMARY>
+# nuklear - C immediate-mode UI library
 
-This is a `build2` package repository for [`nuklear`](https://<UPSTREAM-URL>),
-a <SUMMARY-OF-FUNCTIONALITY>.
+This is a `build2` package repository for [`Nuklear`](https://github.com/Immediate-Mode-UI/Nuklear),
+a minimal-state, immediate-mode graphical user interface toolkit written in ANSI C and licensed under public domain.
 
 This file contains setup instructions and other details that are more
 appropriate for development rather than consumption. If you want to use
